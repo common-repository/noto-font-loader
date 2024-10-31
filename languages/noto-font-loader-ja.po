@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Noto Font Loader\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-08 02:01+0000\n"
+"PO-Revision-Date: 2019-02-15 02:43+0000\n"
+"Last-Translator: Hitomi Seki\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: admin/class-noto-font-loader-admin.php:86 
+#: admin/partials/noto-font-loader-admin-display.php:17
+msgid "Noto Font Settings"
+msgstr "Notoフォント設定"
+
+#: admin/class-noto-font-loader-admin.php:87
+msgid "Noto Font"
+msgstr "Notoフォント設定"
+
+#: admin/partials/noto-font-loader-admin-display.php:31
+msgid "Font style"
+msgstr "書体"
+
+#: admin/partials/noto-font-loader-admin-display.php:35
+msgid "Sans"
+msgstr "ゴシック体"
+
+#: admin/partials/noto-font-loader-admin-display.php:40
+msgid "Serif"
+msgstr "明朝体"
+
+#: admin/partials/noto-font-loader-admin-display.php:45
+msgid "Headers: Serif / Body: Sans"
+msgstr "見出し： 明朝体 ／ 本文： ゴシック体"
+
+#: admin/partials/noto-font-loader-admin-display.php:50
+msgid "Headers: Sans / Body: Serif"
+msgstr "見出し： ゴシック体 ／ 本文： 明朝体"
+
+#. Name of the plugin
+msgid "Noto Font Loader"
+msgstr "Noto Font Loader"
+
+#. Description of the plugin
+msgid ""
+"Noto Font Loader loads the correct Noto font file from Google Fonts "
+"depending on the site’s locale and overrides theme's font settings."
+msgstr "WordPressサイトにNotoフォントを適用するプラグインです。サイトの言語によってロードするフォントファイルを判断します。"
+
+#. Author of the plugin
+msgid "Hitomi Seki"
+msgstr "Hitomi Seki"
+
+#. Author URI of the plugin
+msgid "https://hitomiseki.com"
+msgstr "https://hitomiseki.com"
